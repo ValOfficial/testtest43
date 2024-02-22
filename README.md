@@ -1,6 +1,6 @@
 # How to download
 
-Download the .rar file, extract it using winrar. It should ask you for the password, it is 2024. Then run the Cheat Engine.exe file it should ask you for another code. The code is 2024. Then you should be all set.
+Download the .rar file, extract it using winrar. It should ask you for the password, it is 2024 and then you should be all set.
 
 # I dont have winrar
 
